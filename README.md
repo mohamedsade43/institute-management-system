@@ -37,7 +37,8 @@ institute-management-system/
     ├── constants/
     └── validation/
 
-🚀 Features (MVP)
+🚀 Features (MVP)  
+
 
 ✅ Admin Dashboard – Overview of students, attendance, payments, and courses
 ✅ Student Management – Add, view, edit, delete student records
